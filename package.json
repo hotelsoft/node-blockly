@@ -1,6 +1,6 @@
 {
   "name": "@hotelsoft/node-blockly",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Blockly for Node.js and Browser as CommonJS module",
   "main": "index.js",
   "directories": {
